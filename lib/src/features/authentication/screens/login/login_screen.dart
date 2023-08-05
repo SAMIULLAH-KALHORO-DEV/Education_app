@@ -6,14 +6,12 @@ import 'package:flutter/material.dart';
 
 import 'footer_login_widget.dart';
 import 'login_form_widget.dart';
-import 'login_header_widget.dart';
 
 class LoginScreen extends StatelessWidget {
   const LoginScreen({super.key});
 
   @override
   Widget build(BuildContext context) {
-    final size = MediaQuery.of(context).size;
     return SafeArea(
       child: Scaffold(
         backgroundColor: Colors.white,

@@ -1,5 +1,4 @@
-import 'package:fire_code/src/constants/colors.dart';
-import 'package:fire_code/src/constants/image_strings.dart';
+
 import 'package:fire_code/src/constants/sizes.dart';
 import 'package:fire_code/src/constants/text_strings.dart';
 import 'package:fire_code/src/features/core/screens/dashboard/widget/appbar.dart';
